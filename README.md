@@ -2,7 +2,8 @@
 
 ## 🎯 About Me
 - Aspiring **Full Stack Developer** | **AI Enthusiast**  
-- MTech in Computer Science & Engineering  
+- MTech in Computer Science & Engineering
+- Completed **Full Stack PGDM in Canada** to strengthen practical skills and gain international exposure
 - Passionate about coding, problem-solving, and building real-world applications  
 
 ---
